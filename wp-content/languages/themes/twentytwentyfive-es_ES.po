@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Themes - Twenty Twenty-Five package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-05 21:28:23+0000\n"
+"PO-Revision-Date: 2025-11-13 16:14:19+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -368,7 +368,7 @@ msgstr "Mediodía"
 #: styles/colors/08-midnight.json
 msgctxt "Color name"
 msgid "Accent 6"
-msgstr "Acento 6"
+msgstr "Énfasis 6"
 
 #: theme.json styles/01-evening.json styles/02-noon.json styles/03-dusk.json
 #: styles/04-afternoon.json styles/05-twilight.json styles/06-morning.json
@@ -379,7 +379,7 @@ msgstr "Acento 6"
 #: styles/colors/08-midnight.json
 msgctxt "Color name"
 msgid "Accent 5"
-msgstr "Acento 5"
+msgstr "Énfasis 5"
 
 #: theme.json styles/01-evening.json styles/02-noon.json styles/03-dusk.json
 #: styles/04-afternoon.json styles/05-twilight.json styles/06-morning.json
@@ -390,7 +390,7 @@ msgstr "Acento 5"
 #: styles/colors/08-midnight.json
 msgctxt "Color name"
 msgid "Accent 4"
-msgstr "Acento 4"
+msgstr "Énfasis 4"
 
 #: theme.json styles/01-evening.json styles/02-noon.json styles/03-dusk.json
 #: styles/04-afternoon.json styles/05-twilight.json styles/06-morning.json
@@ -412,7 +412,7 @@ msgstr "Énfasis 3"
 #: styles/colors/08-midnight.json
 msgctxt "Color name"
 msgid "Accent 2"
-msgstr "Énfasis 2"
+msgstr "Énfasis 2"
 
 #: theme.json styles/01-evening.json styles/02-noon.json styles/03-dusk.json
 #: styles/04-afternoon.json styles/05-twilight.json styles/06-morning.json
@@ -423,7 +423,7 @@ msgstr "Énfasis 2"
 #: styles/colors/08-midnight.json
 msgctxt "Color name"
 msgid "Accent 1"
-msgstr "Énfasis 1"
+msgstr "Énfasis 1"
 
 #: theme.json styles/01-evening.json styles/02-noon.json styles/03-dusk.json
 #: styles/04-afternoon.json styles/05-twilight.json styles/06-morning.json

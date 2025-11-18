@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the WordPress - 6.8.x - Development - Administration package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-10-24 16:10:21+0000\n"
+"PO-Revision-Date: 2025-11-12 21:16:09+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -10867,10 +10867,6 @@ msgstr "Previsualizando  e instalando"
 msgid "Once you have generated a list of themes, you can preview and install any of them. Click on the thumbnail of the theme you are interested in previewing. It will open up in a full-screen Preview page to give you a better idea of how that theme will look."
 msgstr "Una vez que hayas generado una lista de temas, puedes previsualizar e instalar cualquiera de ellos. Haz clic en la miniatura del tema que quieras previsualizar. Se abrirá una vista previa a pantalla completa para darte una mejor idea de cómo se verá ese tema."
 
-#: wp-admin/includes/media.php:3066
-msgid "You are using the browser&#8217;s built-in file uploader. The WordPress uploader includes multiple file selection and drag and drop capability. <a href=\"#\">Switch to the multi-file uploader</a>."
-msgstr "Estás usando el cargador propio del navegador. El cargador de WordPress incluye selección múltiple de archivos y capacidad de arrastrar y soltar. <a href=\"#\">Cambiar al cargador múltiple</a>."
-
 #: wp-admin/tools.php:50
 msgid "The Categories and Tags Converter link on this screen will take you to the Import screen, where that Converter is one of the plugins you can install. Once that plugin is installed, the Activate Plugin &amp; Run Importer link will take you to a screen where you can choose to convert tags into categories or vice versa."
 msgstr "El enlace al «Conversor de categorías y etiquetas» de esta pantalla te llevará a la pantalla de importación, donde el conversor es un plugin que puedes instalar. Una vez esté instalado el plugin, el enlace de «Activar plugin y ejecutar importador» te llevará a una pantalla donde podrás elegir convertir etiquetas a categorías y viceversa."
@@ -11752,6 +11748,10 @@ msgstr "Ir a Escritorio &rarr; Inicio"
 #: wp-admin/about.php:360
 msgid "Go to Dashboard &rarr; Updates"
 msgstr "Ir a Escritorio &rarr; Actualizaciones"
+
+#: wp-admin/includes/media.php:3066
+msgid "You are using the browser&#8217;s built-in file uploader. The WordPress uploader includes multiple file selection and drag and drop capability. <a href=\"#\">Switch to the multi-file uploader</a>."
+msgstr "Estás utilizando la subida de archivos del navegador. La nueva subida de archivos de WordPress incluye selección de archivos múltiples y posibilidad de arrastrar y soltar. <a href=\"#\">Cambia al nuevo gestor de archivos</a>."
 
 #: wp-admin/user-edit.php:217
 msgid "Profile updated."

@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Plugins - Elementor Website Builder &#8211; More Than Just a Page Builder - Stable (latest release) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-10 18:14:19+0000\n"
+"PO-Revision-Date: 2025-11-14 15:17:55+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -10,6 +10,68 @@ msgstr ""
 "X-Generator: GlotPress/4.0.3\n"
 "Language: es\n"
 "Project-Id-Version: Plugins - Elementor Website Builder &#8211; More Than Just a Page Builder - Stable (latest release)\n"
+
+#: modules/variables/classes/rest-api.php:562
+msgid "Unexpected error"
+msgstr "Error inesperado"
+
+#: modules/variables/classes/rest-api.php:542
+msgid "Batch operation failed: Variables not found"
+msgstr "Error en la operación por lotes: variables no encontradas"
+
+#: modules/variables/classes/rest-api.php:536
+msgid "Batch operation failed: Variable labels already exist"
+msgstr "Error en la operación por lotes: las etiquetas de variables ya existen"
+
+#: modules/variables/classes/rest-api.php:530
+msgid "Batch operation failed: Reached the maximum number of variables"
+msgstr "Error en la operación por lotes: se ha alcanzado el número máximo de variables"
+
+#: modules/variables/classes/rest-api.php:226
+msgid "Order must be a non-negative integer"
+msgstr "El pedido debe ser un número entero no negativo"
+
+#: modules/nested-accordion/widgets/nested-accordion.php:329
+msgid "Google no longer supports the FAQ schema; however, it may still hold secondary value for AI and LLMs."
+msgstr "Google ya no es compatible con el esquema FAQ; sin embargo, aún puede tener un valor secundario para la IA y los LLM."
+
+#: modules/cloud-library/module.php:188
+msgid "Document not found for preview."
+msgstr "No se ha encontrado el documento para la vista previa."
+
+#: modules/atomic-widgets/module.php:207
+msgid "Editor MCP for atomic widgets."
+msgstr "Editor MCP para widgets atómicos."
+
+#: modules/atomic-widgets/module.php:206
+msgid "Editor MCP for atomic widgets"
+msgstr "Editor MCP para widgets atómicos"
+
+#: modules/atomic-widgets/elements/div-block/div-block.php:34
+msgid "Div block"
+msgstr "Bloque div"
+
+#: modules/atomic-widgets/elements/atomic-tabs/atomic-tabs.php:62
+msgid "Menu items"
+msgstr "Elementos del menú"
+
+#: modules/atomic-widgets/elements/atomic-tabs/atomic-tab.php:31
+msgid "Atomic Tab"
+msgstr "Pestaña atómica"
+
+#: modules/atomic-widgets/elements/atomic-tabs/atomic-tab-panel.php:32
+msgid "Atomic Tab Panel"
+msgstr "Panel pestaña atómica"
+
+#: app/modules/import-export-customization/module.php:461
+#: assets/js/import-export-customization-admin.js:325
+msgid "No import sessions available to revert."
+msgstr "No hay sesiones de importación disponibles para revertir."
+
+#: app/modules/import-export-customization/data/routes/traits/handles-quota-errors.php:30
+#: assets/js/app.js:8830
+msgid "This file"
+msgstr "Este archivo"
 
 #: modules/promotions/pointers/black-friday.php:31
 msgid "Save big on Elementor Pro and unlock the tools to design without limits."
@@ -2751,7 +2813,7 @@ msgstr "Pestañas. Abre elementos con Intro o Espacio, ciérralos con Escape y n
 #. translators: %s: Post type (e.g. Page, Post, etc.)
 #: core/document-types/page-base.php:204
 #: assets/js/packages/editor-site-navigation/editor-site-navigation.js:2
-#: assets/js/packages/editor-site-navigation/editor-site-navigation.strings.js:13
+#: assets/js/packages/editor-site-navigation/editor-site-navigation.strings.js:17
 msgid "View %s"
 msgstr "Ver %s"
 
@@ -2777,7 +2839,7 @@ msgstr "Encima"
 #: assets/js/packages/editor-global-classes/editor-global-classes.js:2
 #: assets/js/packages/editor-global-classes/editor-global-classes.strings.js:69
 #: assets/js/packages/editor-site-navigation/editor-site-navigation.js:2
-#: assets/js/packages/editor-site-navigation/editor-site-navigation.strings.js:15
+#: assets/js/packages/editor-site-navigation/editor-site-navigation.strings.js:19
 msgid "Rename"
 msgstr "Renombrar"
 
@@ -4252,7 +4314,7 @@ msgstr "Opcional"
 
 #: includes/settings/settings.php:389
 msgid "Swap"
-msgstr "Intercambio"
+msgstr "Swap"
 
 #: includes/settings/settings.php:388
 msgid "Blocking"
@@ -5790,7 +5852,7 @@ msgstr "Escritorio"
 
 #: core/common/modules/finder/categories/site.php:46
 #: assets/js/packages/editor-site-navigation/editor-site-navigation.js:2
-#: assets/js/packages/editor-site-navigation/editor-site-navigation.strings.js:26
+#: assets/js/packages/editor-site-navigation/editor-site-navigation.strings.js:12
 msgid "Homepage"
 msgstr "Página de inicio"
 
@@ -6533,7 +6595,7 @@ msgstr "Eliminar"
 #: assets/js/packages/editor-controls/editor-controls.strings.js:76
 #: assets/js/packages/editor-controls/editor-controls.strings.js:182
 #: assets/js/packages/editor-site-navigation/editor-site-navigation.js:2
-#: assets/js/packages/editor-site-navigation/editor-site-navigation.strings.js:16
+#: assets/js/packages/editor-site-navigation/editor-site-navigation.strings.js:20
 msgid "Duplicate"
 msgstr "Duplicar"
 
@@ -8251,9 +8313,9 @@ msgstr "Elementos de las pestañas"
 #: modules/nested-tabs/widgets/nested-tabs.php:112
 #: modules/nested-tabs/widgets/nested-tabs.php:449
 #: assets/js/packages/editor-editing-panel/editor-editing-panel.js:25
-#: assets/js/packages/editor-editing-panel/editor-editing-panel.strings.js:79
-#: assets/js/packages/editor-editing-panel/editor-editing-panel.strings.js:86
+#: assets/js/packages/editor-editing-panel/editor-editing-panel.strings.js:80
 #: assets/js/packages/editor-editing-panel/editor-editing-panel.strings.js:87
+#: assets/js/packages/editor-editing-panel/editor-editing-panel.strings.js:88
 msgid "Tabs"
 msgstr "Pestañas"
 
@@ -9844,8 +9906,8 @@ msgstr "Añadir elemento"
 #: assets/js/packages/editor-global-classes/editor-global-classes.strings.js:42
 #: assets/js/packages/editor-global-classes/editor-global-classes.strings.js:70
 #: assets/js/packages/editor-site-navigation/editor-site-navigation.js:2
-#: assets/js/packages/editor-site-navigation/editor-site-navigation.strings.js:17
-#: assets/js/packages/editor-site-navigation/editor-site-navigation.strings.js:25
+#: assets/js/packages/editor-site-navigation/editor-site-navigation.strings.js:21
+#: assets/js/packages/editor-site-navigation/editor-site-navigation.strings.js:29
 #: assets/js/packages/editor-variables/editor-variables.js:2
 #: assets/js/packages/editor-variables/editor-variables.strings.js:49
 #: assets/js/packages/editor-variables/editor-variables.strings.js:103
@@ -10253,7 +10315,7 @@ msgstr "Arriba"
 #: assets/js/packages/editor-controls/editor-controls.js:88
 #: assets/js/packages/editor-controls/editor-controls.strings.js:107
 #: assets/js/packages/editor-editing-panel/editor-editing-panel.js:25
-#: assets/js/packages/editor-editing-panel/editor-editing-panel.strings.js:80
+#: assets/js/packages/editor-editing-panel/editor-editing-panel.strings.js:81
 msgid "Default"
 msgstr "Por defecto"
 

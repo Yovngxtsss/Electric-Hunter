@@ -76,6 +76,7 @@ __(
 				);
 __( 'Rename', 'elementor' );
 __( 'Open CSS Class Menu', 'elementor' );
+__( 'Inherited from base styles', 'elementor' );
 __( 'Tabs', 'elementor' );
 __( 'Default', 'elementor' );
 __( 'Tab name', 'elementor' );
@@ -85,7 +86,6 @@ __( 'Duplicate Tab', 'elementor' );
 __( 'Reorder Tabs', 'elementor' );
 __( 'Tabs', 'elementor' );
 __( 'Tabs', 'elementor' );
-__( 'Inherited from base styles', 'elementor' );
 __( 'Word spacing', 'elementor' );
 __( 'Text transform', 'elementor' );
 __( 'None', 'elementor' );
