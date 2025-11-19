@@ -20,7 +20,7 @@
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'Electric Hunter' );
+define( 'DB_NAME', 'electrichunter' );
 
 /** Database username */
 define( 'DB_USER', 'root' );
